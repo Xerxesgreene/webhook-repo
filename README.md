@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dev Assessment - Webhook Receiver
 
 Please use this repository for constructing the Flask webhook receiver.
@@ -45,3 +46,6 @@ POST http://127.0.0.1:5000/webhook/receiver
 You need to use this as the base and setup the flask app. Integrate this with MongoDB (commented at `app/extensions.py`)
 
 *******************
+=======
+# webhook-repo
+>>>>>>> d4e2856fa35d87bbe7793d1c6bb93913d67eeb6c
